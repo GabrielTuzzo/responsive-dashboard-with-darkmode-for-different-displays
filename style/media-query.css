@@ -816,7 +816,7 @@
     left: 9.5rem;
   }
 }
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 715px) {
   .header {
     min-width: 100vw;
     width: 80rem;
