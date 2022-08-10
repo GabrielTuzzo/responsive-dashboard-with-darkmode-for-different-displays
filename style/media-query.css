@@ -873,9 +873,6 @@
   .orders {
     width: 600px;
   }
-  body, html {
-    overflow-x: scroll !important;
-  }
   .orders-div {
     position: absolute;
     top: 65.5rem;
