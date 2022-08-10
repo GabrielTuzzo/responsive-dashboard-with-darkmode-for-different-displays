@@ -1,0 +1,903 @@
+
+@media screen and (max-width: 2070px) {
+  body {
+    padding-left: 20%;
+  }
+}
+
+@media screen and (max-width: 1350px) {
+  .aside {
+    left: 144rem;
+  }
+  body {
+    padding-left: 18%;
+  }
+}
+@media screen and (max-width: 2020px) {
+  .aside {
+    left: 143rem;
+  }
+  body {
+    padding-left: 18%;
+  }
+}
+@media screen and (max-width: 1950px) {
+  .aside {
+    left: 133rem;
+  }
+  body {
+    padding-left: 13.5%;
+  }
+}
+@media screen and (max-width: 1880px) {
+  .aside {
+    left: 132rem;
+  }
+}
+@media screen and (max-width: 1850px) {
+  body {
+    padding-left: 11.5%;
+  }
+  .aside {
+    left: 128rem;
+  }
+}
+@media screen and (max-width: 1790px) {
+  body {
+    padding-left: 9%;
+  }
+  .aside {
+    left: 122.5rem;
+  }
+}
+@media screen and (max-width: 1720px) {
+  body {
+    padding-left: 8%;
+  }
+  .aside {
+    left: 120rem;
+  }
+}
+@media screen and (max-width: 1645px) {
+  .aside {
+    left: 117.5rem;
+  }
+  body {
+    padding-left: 7%;
+  }
+}
+@media screen and (max-width: 1615px) {
+  body {
+    padding-left: 6%;
+  }
+  .aside {
+    left: 115.5rem;
+  }
+}
+@media screen and (max-width: 1600px) {
+  body {
+    padding-left: 0;
+  }
+  .date {
+    padding-right: 5rem;
+  }
+  .input-user {
+    margin-left: 8rem;
+  }
+  .btn-p {
+    display: block;
+    padding-right: 1rem;
+    margin-left: 7rem;
+  }
+  .header {
+    width: 118%;
+  }
+  .aside {
+    left: 114rem;
+  }
+  .total-expenses,
+  .total-profit,
+  .total-sales {
+    width: 290px;
+  }
+}
+@media screen and (max-width: 1530px) {
+  .input-user {
+    margin-left: 6rem;
+  }
+  .btn-p {
+    display: block;
+    padding-right: 0.3rem;
+    margin-left: 6rem;
+  }
+  .total-expenses,
+  .total-profit,
+  .total-sales {
+    width: 285px;
+  }
+  .aside {
+    left: 112.5rem;
+  }
+}
+@media screen and (max-width: 1505px) {
+  .input-user {
+    margin-left: 4rem;
+  }
+  .btn-p {
+    display: block;
+    padding-right: 0.3rem;
+    margin-left: 4rem;
+  }
+  .total-expenses,
+  .total-profit,
+  .total-sales {
+    width: 280px;
+  }
+  .aside {
+    left: 110.5rem;
+  }
+}
+@media screen and (max-width: 1480px) {
+  .input-user {
+    margin-left: 4rem;
+  }
+  .btn-p {
+    display: block;
+    padding-right: 0.3rem;
+    margin-left: 4rem;
+  }
+  .total-expenses,
+  .total-profit,
+  .total-sales {
+    width: 270px;
+  }
+  .aside {
+    left: 108rem;
+  }
+}
+@media screen and (max-width: 1380px) {
+  .aside {
+    left: 106.5rem;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .aside {
+    margin-left: 2rem;
+    top: 145rem;
+    left: 21rem;
+  }
+  .month-employers {
+    min-width: 500px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .header {
+    width: 118%;
+  }
+  .graphics {
+    gap: 15px;
+  }
+  .total-profit,
+  .total-expenses,
+  .total-sales {
+    width: 310px;
+  }
+  .orders {
+    display: grid;
+    grid-template-columns: 0.28fr 0.26fr 0.155fr 0.165fr;
+    background-color: var(--background-light);
+    border-radius: 10px;
+    padding: 2rem;
+    max-width: 825px;
+    box-shadow: var(--box-shadow);
+    transition: 0.3s ease;
+    margin: 1.5rem;
+    padding-left: 1.5rem;
+    width: 900px;
+    max-width: none;
+  }
+  .sells {
+    padding-left: 40px;
+  }
+  .opinions {
+    max-width: none;
+    width: 910px;
+  }
+  .orders-title {
+    padding-left: 2rem;
+  }
+  #page {
+    margin-top: 1rem;
+  }
+  #page {
+    margin-left: 3rem;
+  }
+  .all-employers {
+    padding-bottom: 5rem;
+  }
+  .month-employers {
+    min-width: 910px;
+    width: 840px;
+  }
+  .about {
+    padding-left: 3rem;
+    display: flex;
+    flex-direction: row;
+  }
+  .users {
+    margin-top: 0.5rem;
+  }
+  .position {
+    margin-top: 1rem;
+    border: none;
+    padding-left: 4rem;
+  }
+  .sells {
+    margin-top: 1rem;
+    margin-right: 5rem;
+    padding-right: 3rem;
+  }
+  .fa-star {
+    padding-right: 0.25rem;
+  }
+  .month-employers {
+    border-bottom: var(--border-bottom);
+  }
+  .last-one {
+    border: none;
+  }
+  .input-user {
+    margin-left: 1.5rem;
+  }
+  .date {
+    padding: 1rem 0.5rem;
+  }
+  input[type="search"] {
+    width: 32rem;
+  }
+  .see-All {
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    margin-left: calc(0rem);
+  }
+  .nav-bar {
+    margin-top: 2.5rem;
+  }
+}
+@media screen and (max-width: 1215px) {
+  .graphics {
+    gap: 10px;
+  }
+  .total-profit,
+  .total-expenses,
+  .total-sales {
+    width: 300px;
+  }
+}
+@media screen and (max-width: 1195px) {
+  .title-navbar {
+    display: none;
+  }
+  .opinions {
+    max-width: 835px;
+  }
+  .header {
+    width: 100%;
+    position: absolute;
+    left: 0;
+  }
+  .month-employers {
+    min-width: 500px;
+    display: flex;
+    justify-content: space-around;
+  }
+  #page {
+    margin-left: 1rem;
+    margin-top: 10rem;
+  }
+  .orders {
+    display: grid;
+    grid-template-columns: 0.28fr 0.3fr 0.175fr 0.175fr;
+    background-color: var(--background-light);
+    border-radius: 10px;
+    padding: 2rem;
+    max-width: 825px;
+    box-shadow: var(--box-shadow);
+    transition: 0.3s ease;
+    margin: 1.5rem;
+    padding-left: 1.5rem;
+  }
+  .total-profit,
+  .total-expenses,
+  .total-sales {
+    width: 280px;
+  }
+  .aside {
+    left: 19rem;
+  }
+  .graphics {
+    gap: 10px;
+  }
+  #page {
+    padding-left: -1rem;
+  }
+  .nav-bar {
+    margin-top: 9.8rem;
+  }
+}
+@media screen and (max-width: 1075px) {
+  .aside {
+    left: 17.5rem;
+  }
+}
+@media screen and (max-width: 1065px) {
+  .month-employers {
+    width: 800px;
+  }
+  .opinions {
+    width: 800px;
+  }
+  .aside {
+    left: 18rem;
+  }
+}
+@media screen and (max-width: 1061px) {
+  .header {
+    width: 100%;
+    position: absolute;
+    left: 0;
+  }
+  .aside {
+    left: 18rem;
+  }
+  .icon {
+    padding-right: 0.5rem;
+  }
+  .nav-bar a {
+    padding-left: 2rem;
+  }
+  .btn-p {
+    display: flex;
+  }
+  .month-employers {
+    width: 815px;
+  }
+}
+@media screen and (max-width: 1056px) {
+  .month-employers {
+    width: 830px;
+  }
+  .aside {
+    left: 16.75rem;
+  }
+  .opinions {
+    min-width: 820px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .month-employers {
+    width: 830px;
+  }
+  .aside {
+    left: 15.7rem;
+  }
+  .opinions {
+    min-width: 820px;
+  }
+}
+@media screen and (max-width: 1045px) {
+  .aside {
+    left: 15.2rem;
+  }
+}
+@media screen and (max-width: 1035px) {
+  .aside {
+    left: 14rem;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .bar-text {
+    display: none;
+  }
+  .aside {
+    left: 12rem;
+  }
+  .graphics {
+    gap: 7px;
+  }
+  .total-profit,
+  .total-expenses,
+  .total-sales {
+    width: 270px;
+  }
+  #bar {
+    width: 12rem;
+    min-height: 100vh;
+  }
+  .icon {
+    font-size: 2.5rem;
+    margin-bottom: 4rem;
+  }
+  .nav-bar a {
+    text-decoration: none;
+    color: var(--color-text-light);
+    display: flex;
+    padding-left: 3.8rem;
+    font-size: 1.7rem;
+    height: 6.5rem;
+    display: block;
+    padding-top: 1.5rem;
+    padding-right: 0;
+  }
+  .page-text {
+    display: none;
+  }
+}
+@media screen and (max-width: 1015px) {
+  .month-employers {
+    width: 800px;
+  }
+  .opnions {
+    width: 800px;
+  }
+  .aside {
+    left: 12.5rem;
+  }
+}
+@media screen and (max-width: 980px) {
+  .aside {
+    left: 12rem;
+  }
+  .nav-bar a {
+    padding-left: 3rem;
+  }
+}
+@media screen and (max-width: 970px) {
+  .aside {
+    left: 11rem;
+  }
+}
+@media screen and (max-width: 965px) {
+  .aside {
+    left: 10.3rem;
+  }
+  .nav-bar a {
+    padding-left: 2.7rem;
+  }
+}
+@media screen and (max-width: 960px) {
+  .nav-bar a {
+    padding-left: 2.5rem;
+  }
+  .aside {
+    left: 9.5rem;
+  }
+}
+@media screen and (max-width: 952px) {
+  .aside {
+    left: 7.5rem;
+  }
+  .nav-bar a {
+    padding-left: 2.7rem;
+  }
+}
+@media screen and (max-width: 954px) {
+  .btns {
+    margin-right: 2rem;
+  }
+  input[type="search"] {
+    width: 27rem;
+  }
+  .aside {
+    left: 4rem;
+  }
+  .aside {
+    left: 9.5rem;
+  }
+  .nav-bar a {
+    padding-left: 2rem;
+  }
+}
+@media screen and (max-width: 945px) {
+  .aside {
+    left: 8rem;
+  }
+  .nav-bar a {
+    padding-left: 2.7rem;
+  }
+}
+@media screen and (max-width: 940px) {
+  input[type="search"] {
+    width: 28rem;
+  }
+  .aside {
+    left: 8.3rem;
+  }
+  .your {
+    display: none;
+  }
+  .nav-bar a {
+    padding-left: 1.7rem;
+  }
+}
+@media screen and (max-width: 935px) {
+  .aside {
+    left: 7rem;
+  }
+}
+@media screen and (max-width: 928px) {
+  .max-width {
+    display: none;
+  }
+  .aside {
+    left: 6.7rem;
+  }
+}
+@media screen and (max-width: 915px) {
+  .max-width {
+    display: none;
+  }
+  .aside {
+    left: 6rem;
+  }
+}
+@media screen and (max-width: 936px) {
+  .nav-bar a {
+    padding-left: 1.3rem;
+  }
+}
+@media screen and (max-width: 931px) {
+  .nav-bar a {
+    padding-left: 1rem;
+  }
+}
+@media screen and (max-width: 925px) {
+  .nav-bar a {
+    padding-left: 0.8rem;
+  }
+  .orders {
+    width: 810px;
+  }
+}
+@media screen and (max-width: 918px) {
+  .input-user {
+    margin-left: 4rem;
+  }
+  .graphics {
+    gap: 0.7rem;
+  }
+}
+@media screen and (max-width: 912px) {
+  .graphics {
+    gap: 0.6rem;
+  }
+}
+@media screen and (max-width: 909px) {
+  .total-sales,
+  .total-expenses {
+    width: 300px;
+  }
+  .position {
+    margin-top: 1rem;
+    border: none;
+    padding-left: 0;
+  }
+  .month-employers {
+    min-width: 500px;
+    padding: 0.8rem 0.5rem;
+  }
+  .nav-bar a {
+    padding-left: 0.8rem;
+    padding-right: 0.5rem;
+  }
+  input[type="search"] {
+    width: 22rem;
+  }
+  .input-user {
+    margin-left: 4rem;
+  }
+  .graphics {
+    gap: 1.3rem;
+    grid-template-columns: 300px 2fr;
+  }
+  .bar-text {
+    display: block;
+    padding-top: 5px;
+    padding-left: 7px;
+  }
+  .orders {
+    width: 710px;
+    grid-template-columns: 0.4fr 0.45fr 0.25fr 0.25fr;
+  }
+  .bold-title {
+    margin-left: 4.5rem;
+  }
+  .orders-title {
+    padding-top: 30px
+  }
+  .icon {
+    display: none;
+  }
+  .total-profit {
+    width: 612px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+  .square-progress {
+    margin: 0 2rem;
+  }
+  .aside {
+    top: 163rem;
+    left: 12.2rem;
+  }
+  .month-employers {
+    width: 710px;
+  }
+  .opinions {
+    max-width: 710px;
+    min-width: 710px;
+  }
+  .sells {
+    width: 185px;
+  }
+  .total-profit .center {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem;
+  }
+  .bottom {
+    padding-right: 3.5rem;
+  }
+  .icon {
+    font-size: 2.1rem;
+    margin-bottom: 4rem;
+  }
+}
+@media screen and (max-width: 874px) {
+  .aside {
+    left: 12rem;
+  }
+}
+@media screen and (max-width: 864px) {
+  .aside {
+    left: 11rem;
+  }
+}
+@media screen and (max-width: 849px) {
+  .orders {
+    width: 650px;
+  }
+  .bold-title {
+    margin-left: 3.75rem;
+  }
+  .month-employers {
+    width: 650px;
+  }
+  .opinions {
+    max-width: 650px;
+    min-width: 650px;
+  }
+  .aside {
+    left: 12rem;
+  }
+}
+@media screen and (max-width: 813px) {
+  .aside {
+    left: 12.4rem;
+  }
+}
+@media screen and (max-width: 806px) {
+  .aside {
+    left: 11.75rem;
+  }
+}
+@media screen and (max-width: 800px) {
+  .theme {
+    display: none;
+  }
+  .graphics {
+    gap: 0.75rem;
+  }
+  .total-profit {
+    width: 609px;
+  }
+  .aside {
+    left: 11.4rem;
+  }
+}
+@media screen and (max-width: 795px) {
+  .theme {
+    display: none;
+  }
+  .graphics {
+    gap: 0.75rem;
+  }
+  .total-profit {
+    width: 609px;
+  }
+  .aside {
+    left: 11rem;
+  }
+}
+@media screen and (max-width: 789px) {
+  .orders {
+    width: 600px;
+  }
+  .month-employers {
+    width: 605px;
+  }
+  .opinions {
+    max-width: 605px;
+    min-width: 605px;
+  }
+  .aside {
+    left: 12.5rem;
+  }
+}
+@media screen and (max-width: 775px) {
+  input[type="search"] {
+    width: 20rem;
+  }
+  .bold-title {
+    margin-left: 2.5rem;
+  }
+}
+@media screen and (max-width: 770px) {
+  .graphics {
+    gap: 0.75rem;
+    grid-template-columns: 300px;
+  }
+  .orders {
+    grid-template-columns: 0.4fr 0.40fr 0.18fr 0.18fr;
+  }
+  .month-employers {
+    width: 600px;
+  }
+  .opinions {
+    max-width: 600px;
+    min-width: 600px;
+  }
+  .input-user {
+    padding-right: 1rem;
+  }
+  .total-expenses,
+  .total-sales {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+  .aside {
+    top: 175rem;
+  }
+  .total-sales,
+  .total-profit,
+  .total-expenses {
+    width: 55rem;
+  }
+  .total-expenses .center,
+  .total-sales .center {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem;
+  }
+  .bottom {
+    padding-right: 3.5rem;
+  }
+  .square-progress {
+    margin: 0;
+  }
+}
+@media screen and (max-width: 764px) {
+  .aside {
+    left: 12.5rem;
+  }
+}
+@media screen and (max-width: 758px) {
+  .aside {
+    left: 11.75rem;
+  }
+}
+@media screen and (max-width: 752px) {
+  .aside {
+    left: 11.2rem;
+  }
+}
+@media screen and (max-width: 745px) {
+  .aside {
+    left: 10.6rem;
+  }
+}
+@media screen and (max-width: 739px) {
+  .aside {
+    left: 9.5rem;
+  }
+}
+@media screen and (max-width: 715px) {
+  .header {
+    min-width: 100vw;
+    width: 80rem;
+  }
+  .btn-p {
+    display: block;
+    padding-right: 0.3rem;
+    margin-left: 2rem;
+  }
+  .hamburguer-menu {
+    display: block;
+    pointer-events: all;
+    padding-left: 3rem;
+    padding-right: 2.75rem;
+    margin-top: 1.7rem;
+  }
+  .input-user {
+    margin-left: 2.5rem;
+    padding-right: 0
+  }
+  .fa-bars {
+    font-size: 32px;
+  }
+  .nav-bar.active {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 11rem;
+    margin-left: 0.3rem;
+    margin-top: 10.55rem;
+    z-index: 2;
+  }
+.nav-bar {
+  display: none;
+}
+  .aside {
+    left: 8.7rem;
+    top: 173rem;
+  }
+  .graphics {
+    position: absolute;
+    padding-left: 3.7rem;
+    top: 8rem;
+  }
+  .orders-div {
+    position: absolute;
+    top: 65.5rem;
+  }
+  #page {
+    margin-left: -3rem;
+  }
+}
+@media screen and (max-width: 620px) {
+  .orders {
+    width: 600px;
+  }
+  .orders-div {
+    position: absolute;
+    top: 65.5rem;
+    left: 7rem;
+  }
+  .aside {
+    left: 6.75rem;
+  }
+  .total-sales,
+  .total-profit,
+  .total-expenses {
+    width: 50rem;
+  }
+  .graphics {
+    position: absolute;
+    padding-left: 4rem;
+    top: 8rem;
+  }
+}
+@media screen and (max-width: 575px) {
+  .orders-div {
+    position: absolute;
+    top: 65.5rem;
+  }
+  #page {
+    margin-left: -3rem;
+  }
+}
